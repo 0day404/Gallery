@@ -32,7 +32,7 @@
 <img width="1280"  src="https://github.com/KayCHENvip/Gallery/assets/128878325/7a0819c3-a953-4676-90a1-849e787b6037">
 
 ### 12 
-<img wiath="1280"  scr="https://github.com/KayCHENvip/Gallery/assets/128878325/43d1c254-0d14-43fe-b07f-261579deb15e)">
+<img wiath="1280"  scr="https://github.com/KayCHENvip/Gallery/assets/128878325/43d1c254-0d14-43fe-b07f-261579deb15e">
 
 ### 13 
 <img width="1279"  src="https://github.com/KayCHENvip/Gallery/assets/128878325/d50af21e-296e-4531-8919-9a0b1518e91e">
