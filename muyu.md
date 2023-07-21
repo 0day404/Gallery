@@ -1,8 +1,8 @@
 ### 1 
-<img style="width: 420px; height: 210px "  src="https://github.com/KayCHENvip/Gallery/assets/128878325/26543fe1-dbd4-458e-9cb0-b6599743e515">
+<img style="width: 1280px; height: 640px "  src="https://github.com/KayCHENvip/Gallery/assets/128878325/26543fe1-dbd4-458e-9cb0-b6599743e515">
 
 ### 2 
-<img width="420" src="https://github.com/KayCHENvip/Gallery/assets/128878325/601ba1af-f274-4772-8d2a-f1b9e09b53da">
+<img width="1280" src="https://github.com/KayCHENvip/Gallery/assets/128878325/601ba1af-f274-4772-8d2a-f1b9e09b53da">
 
 ### 3 
 <img width="1280"  src="https://github.com/KayCHENvip/Gallery/assets/128878325/901ddc51-5755-4866-a72a-dc539d2376c5">
